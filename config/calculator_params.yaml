@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+    atmospheric_pressure: 100900
+    sensor_z_offset: 0.0
+    rho: 1000
+    g: 9.81
+    enable_filter: True
+    filter_order: 2
+    critical_freq: 0.1

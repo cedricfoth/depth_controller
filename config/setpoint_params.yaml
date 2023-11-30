@@ -1,0 +1,8 @@
+/**:
+  ros__parameters:
+    static_setpoint: True
+    sin_setpoint: False
+    zickzack_setpoint: False
+    setpoint: -0.5
+    amplitude: 0.1
+    interval: 10.0
